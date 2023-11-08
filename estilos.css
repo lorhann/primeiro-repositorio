@@ -2,6 +2,10 @@
         
     }
 
+.titulo-principal {
+    padding-left: 25px;
+}
+
 img {
     width: 100%;
 }
@@ -11,7 +15,7 @@ img {
     padding: 30px;
 }
 
-    h1 {
+    h2 {
         text-align: center;
     }
 
@@ -32,7 +36,7 @@ img {
         padding: 20px;
       }
 
-h2 {
+h3 {
     text-align: center;
 }
 
